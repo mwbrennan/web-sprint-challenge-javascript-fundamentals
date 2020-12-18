@@ -17,7 +17,7 @@ myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
 
-// they are both inside of the parent function {myFunction}
+// they are both inside of the parent function {myFunction}.
 
 
 
